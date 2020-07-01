@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Project-10/static/css/main.1764e347.chunk.css",
+    "main.js": "/Project-10/static/js/main.da44332e.chunk.js",
+    "main.js.map": "/Project-10/static/js/main.da44332e.chunk.js.map",
+    "runtime-main.js": "/Project-10/static/js/runtime-main.4b7916e7.js",
+    "runtime-main.js.map": "/Project-10/static/js/runtime-main.4b7916e7.js.map",
+    "static/js/2.a5472e56.chunk.js": "/Project-10/static/js/2.a5472e56.chunk.js",
+    "static/js/2.a5472e56.chunk.js.map": "/Project-10/static/js/2.a5472e56.chunk.js.map",
+    "index.html": "/Project-10/index.html",
+    "precache-manifest.a69fe23562c2366eae221369d91d7224.js": "/Project-10/precache-manifest.a69fe23562c2366eae221369d91d7224.js",
+    "service-worker.js": "/Project-10/service-worker.js",
+    "static/css/main.1764e347.chunk.css.map": "/Project-10/static/css/main.1764e347.chunk.css.map",
+    "static/js/2.a5472e56.chunk.js.LICENSE.txt": "/Project-10/static/js/2.a5472e56.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Project-10/static/media/Girls-Listen-Music_0.6ac2491a.jpg",
+    "static/media/among_stars.jpg": "/Project-10/static/media/among_stars.f7b0bcfa.jpg",
+    "static/media/animals.jpg": "/Project-10/static/media/animals.56308c79.jpg",
+    "static/media/band_of_gypsys.jpg": "/Project-10/static/media/band_of_gypsys.cbdfc7c3.jpg",
+    "static/media/dark_side.jpg": "/Project-10/static/media/dark_side.01debc07.jpg",
+    "static/media/electric-ladyland.jpg": "/Project-10/static/media/electric-ladyland.7a9616d4.jpg",
+    "static/media/erotica.jpg": "/Project-10/static/media/erotica.abda1b00.jpg",
+    "static/media/experienced.jpg": "/Project-10/static/media/experienced.c975bdc9.jpg",
+    "static/media/isle_of_wright.jpg": "/Project-10/static/media/isle_of_wright.8f1bac86.jpg",
+    "static/media/jimi_hendrix.jpg": "/Project-10/static/media/jimi_hendrix.2183c929.jpg",
+    "static/media/johnny_cash.jpg": "/Project-10/static/media/johnny_cash.00cb1649.jpg",
+    "static/media/like_a_virgin.jpg": "/Project-10/static/media/like_a_virgin.8f08d776.jpg",
+    "static/media/madonna.jpg": "/Project-10/static/media/madonna.3fc61baa.jpg",
+    "static/media/man_comes_around.jpg": "/Project-10/static/media/man_comes_around.d45e9792.jpg",
+    "static/media/no_grave.jpg": "/Project-10/static/media/no_grave.79d78f52.jpg",
+    "static/media/pink_floyd.jpg": "/Project-10/static/media/pink_floyd.4dc3ec8c.jpg",
+    "static/media/porcupine_tree.jpg": "/Project-10/static/media/porcupine_tree.c9d9333c.jpg",
+    "static/media/ray_of_light.jpg": "/Project-10/static/media/ray_of_light.b7e1611e.jpg",
+    "static/media/solitary_man.jpg": "/Project-10/static/media/solitary_man.846ce12e.jpg",
+    "static/media/the_wall.jpg": "/Project-10/static/media/the_wall.1df60275.jpg",
+    "static/media/true_blue.jpg": "/Project-10/static/media/true_blue.182e471b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7916e7.js",
+    "static/js/2.a5472e56.chunk.js",
+    "static/css/main.1764e347.chunk.css",
+    "static/js/main.da44332e.chunk.js"
+  ]
+}
